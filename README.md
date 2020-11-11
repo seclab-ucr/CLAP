@@ -1,5 +1,15 @@
 [ACM Artifact Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) awarded: **Available** and **Functional**.
 
+If you want to use this code, please consider citing the corresponding paper below:
+```
+@inproceedings{zhu2020clap,
+  title={You Do (Not) Belong Here: Detecting DPI Evasion Attacks with Context Learning},
+  author={Zhu, Shitong and Li, Shasha and Wang, Zhongjie and Chen, Xun and Qian, Zhiyun and Krishnamurthy, Srikanth V and Chan, Kevin S and Swami, Ananthram},
+  booktitle={Proceedings of the 16th International Conference on emerging Networking EXperiments and Technologies},
+  year={2020}
+}
+```
+
 <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width="150" height="150"> <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width="150" height="150">
 
 **System requirements**: our artifact was only tested on Ubuntu 18.04 64-bit; we recommand executing our artifact inside a VM sandbox, as it involves installing customized Linux kernel.
