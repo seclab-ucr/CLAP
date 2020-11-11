@@ -1,3 +1,7 @@
+[ACM Artifact Badges](https://www.acm.org/publications/policies/artifact-review-and-badging-current) awarded: **Available** and **Functional**.
+
+<img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_available_v1_1.png" width="150" height="150"> <img src="https://www.acm.org/binaries/content/gallery/acm/publications/artifact-review-v1_1-badges/artifacts_evaluated_functional_v1_1.png" width="150" height="150">
+
 System requirements: our artifact was only tested on Ubuntu 18.04 64-bit; we recommand executing our artifact inside a VM sandbox, as it involves installing customized Linux kernel.
 
 Dependencies: all necessary dependencies can be installed using the command: `sudo pip3 -r requirements.txt`, and this has been included in our script `replicate_results.sh`, so no action needs to be taken other than following the steps listed below.
